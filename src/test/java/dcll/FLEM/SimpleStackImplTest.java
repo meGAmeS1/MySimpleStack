@@ -16,7 +16,7 @@ public class SimpleStackImplTest extends TestCase {
 		assertEquals(ss.getSize(), 0);
 		assertTrue(ss.isEmpty());
 
-		Item newItem = new Item("Test1");
+		Item newItem = new Item("Test 1");
 		ss.push(newItem);
 
 		assertEquals(ss.peek(), newItem);

@@ -9,7 +9,7 @@ import org.junit.Test;
 public class ItemTest extends TestCase {
 	@Test
 	public void testItemGetterSetterAndConstructor() {
-		String testString = "Test Item";
+		String testString = "Test Item 1";
 		String testStringSetter = "Test Item 2";
 
 		Item itemTestes = new Item(testString);
