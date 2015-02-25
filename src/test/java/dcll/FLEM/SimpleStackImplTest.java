@@ -6,6 +6,7 @@ import java.util.EmptyStackException;
 
 /**
  * Created by flemoal on 09/02/15.
+ * Edited on 25/02/2014
  */
 public class SimpleStackImplTest extends TestCase {
 
